@@ -20,5 +20,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 Make a github issue if you find any bugs or have any questions or preferably dm me on discord neoarz.
+<br>
 <sub>If you find this project useful, consider leaving a star, would mean alot!!</sub>
 
