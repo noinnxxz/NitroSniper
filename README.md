@@ -8,14 +8,16 @@ A simple Vencord/Equicord plugin to auto snipe nitro gift codes
 > [!CAUTION]
 > **Use at your own risk**
 > 
-> This plugin is against Discord's Terms of Service and can get you banned. In addition to that, Vencord does not in any way endorse this plugin. This is usermade and you will have to follow [Vencord's Installation Method](https://docs.vencord.dev/installing/) to build and install this plugin
+> This plugin is against Discord's Terms of Service and can get you banned. In addition to that, Vencord does not in any way endorse this plugin. This is usermade and you will have to follow [Vencord's Installation Method](https://docs.vencord.dev/installing/) to build and install this plugin.
+
+## Credits
+- [Vencord](https://github.com/vencord/vencord)
+- [Equicord](https://github.com/Equicord/Equicord) (The fork im currently using)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Support
-If you find this useful, consider leaving a star, would mean alot!!
+Make a github issue if you find any bugs or have any questions or preferably dm me on discord neoarz
+If you find this project useful, consider leaving a star, would mean alot!!
 
-## Credits
-- [Vencord](https://github.com/vencord/vencord)
-- [Equicord](https://github.com/Equicord/Equicord) (The fork im currently using)
