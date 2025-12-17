@@ -1,4 +1,4 @@
-# NitroSniper <img width="150" align="right" src="assets/icon.png">
+# NitroSniper
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-5865F2)](https://github.com/neoarz/NitroSniper)
 [![GitHub License](https://img.shields.io/github/license/neoarz/NitroSniper?color=%23e78284)](https://github.com/neoarz/NitroSniper/blob/main/LICENSE)
