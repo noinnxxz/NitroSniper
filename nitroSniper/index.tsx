@@ -6,7 +6,7 @@ dm @neoarz if u need help or have any questions
 https://github.com/neoarz/NitroSniper
 */
 
-import { Alert } from "@components/Alert";
+
 import { Devs } from "@utils/constants";
 import { Logger } from "@utils/Logger";
 import definePlugin from "@utils/types";
@@ -18,11 +18,6 @@ export default definePlugin({
     name: "NitroSniper",
     description: "Automatically redeems Nitro gift links sent in chat",
     authors: [Devs.neoarz],
-    settingsAboutComponent: () => (
-        <Alert.Error>
-            This plugin breaks Discord's TOS. Use at your own risk.
-        </Alert.Error>
-    ),
 
     start() {
         this.startTime = Date.now();
