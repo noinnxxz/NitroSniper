@@ -23,7 +23,6 @@ export default definePlugin({
             This plugin breaks Discord's TOS. Use at your own risk.
         </Alert.Error>
     ),
-    enabledByDefault: false, // Safer to have off by default?
 
     start() {
         this.startTime = Date.now();
